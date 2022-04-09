@@ -1,0 +1,10 @@
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Debug\DDWPasteRecon.exe.config
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Debug\DDWPasteRecon.exe
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Debug\DDWPasteRecon.pdb
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.csproj.AssemblyReference.cache
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.Form1.resources
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.Properties.Resources.resources
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.csproj.GenerateResource.cache
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.csproj.CoreCompileInputs.cache
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.exe
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Debug\DDWPasteRecon.pdb

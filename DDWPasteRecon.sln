@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDWPasteRecon", "DDWPasteRecon.csproj", "{35556C77-C56A-49D6-83BF-FD737F553392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35556C77-C56A-49D6-83BF-FD737F553392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35556C77-C56A-49D6-83BF-FD737F553392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35556C77-C56A-49D6-83BF-FD737F553392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35556C77-C56A-49D6-83BF-FD737F553392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC600056-9A82-4F7B-AD33-A6133018C551}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Release\DDWPasteRecon.exe.config
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Release\DDWPasteRecon.exe.manifest
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Release\DDWPasteRecon.application
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Release\DDWPasteRecon.exe
+C:\Users\VM\source\repos\DDWPasteRecon\bin\Release\DDWPasteRecon.pdb
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.csproj.AssemblyReference.cache
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.Form1.resources
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.Properties.Resources.resources
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.csproj.GenerateResource.cache
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.csproj.CoreCompileInputs.cache
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.TrustInfo.xml
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.exe.manifest
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.application
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.exe
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.pdb
+C:\Users\VM\source\repos\DDWPasteRecon\obj\Release\DDWPasteRecon.csproj.SuggestedBindingRedirects.cache
