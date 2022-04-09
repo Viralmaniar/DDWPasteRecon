@@ -152,6 +152,11 @@ DDWPasteRecon uses following sites to perform searches:
 •	paste.balbinus.org
 ```
 
+# Screenshots
+
+Searching pastesites for a target organisation:
+
+![image](https://user-images.githubusercontent.com/3501170/162573895-2d4e627c-8a40-4f47-94e9-c2a3cb4acc2a.png)
 
 
 
