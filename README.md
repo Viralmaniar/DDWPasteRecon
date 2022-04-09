@@ -154,9 +154,12 @@ DDWPasteRecon uses following sites to perform searches:
 
 # Screenshots
 
-Searching pastesites for a target organisation:
+Searching pastesites using primary domain for a target organisation:
 
 ![image](https://user-images.githubusercontent.com/3501170/162573895-2d4e627c-8a40-4f47-94e9-c2a3cb4acc2a.png)
 
+Searching pastesites with password keyword for a target organisation:
+ 
+![image](https://user-images.githubusercontent.com/3501170/162574414-a652626d-dd1d-4e6c-b0dd-773e3a223d35.png)
 
 
