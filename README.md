@@ -8,6 +8,9 @@ With various malicious groups now using these services as communication channels
 
 DDWPasteRecon tool will help you identify code leak, sensitive files, plaintext passwords, password hashes. It also allow member of SOC & Blue Team to gain situational awareness of the organisation's web exposure on the pastesites. It Utilises Google's indexing of pastesites to gain targeted intelligence of the organisation. Blue & SOC teams can collect and analyse data from these indexed pastesites to better protect against unknown threats.
 
+![image](https://user-images.githubusercontent.com/3501170/162573567-63605637-0c05-4f80-bb7e-f8e67bbe9370.png)
+
+
 Tool uses following sites to perform searches:
 
 ```
