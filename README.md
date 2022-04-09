@@ -168,7 +168,7 @@ Getting access to senstive information:
 
 # How to use this tool?
 
-Step1: Download the file from Release section: 
+Step1: Download the file from Release section: https://github.com/Viralmaniar/DDWPasteRecon/releases/download/v1.0.0/DDWPasteRecon.exe
 
 Step2: Run the EXE file
 
