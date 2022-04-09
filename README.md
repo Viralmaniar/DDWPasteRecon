@@ -12,11 +12,11 @@ DDWPasteRecon tool will help you identify code leak, sensitive files, plaintext 
 
 Tool will be able to track the sites that've been searched for sensitive information. 
 
-Searched sites will be marked with red coloured button as shown below:
+- Searched sites will be marked with red coloured button as shown below:
 
 ![image](https://user-images.githubusercontent.com/3501170/162575090-68617291-5ac5-42c0-9dd4-3272e412dc5f.png)
 
-Pastesites remaining for the searches:
+- Pastesites remaining for the searches:
 
 ![image](https://user-images.githubusercontent.com/3501170/162575120-fa098276-5b5c-446b-8029-b13bfbfde9ff.png)
 
