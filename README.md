@@ -11,7 +11,9 @@ DDWPasteRecon tool will help you identify code leak, sensitive files, plaintext 
 ![image](https://user-images.githubusercontent.com/3501170/162573567-63605637-0c05-4f80-bb7e-f8e67bbe9370.png)
 
 
-Tool uses following sites to perform searches:
+# List of Online IDEs, Paste sites and Carder forums
+
+DDWPasteRecon uses following sites to perform searches:
 
 ```
 •	gist.github.com
