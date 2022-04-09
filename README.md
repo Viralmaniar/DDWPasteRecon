@@ -162,4 +162,18 @@ Searching pastesites with password keyword for a target organisation:
  
 ![image](https://user-images.githubusercontent.com/3501170/162574414-a652626d-dd1d-4e6c-b0dd-773e3a223d35.png)
 
+Getting access to senstive information:
 
+![image](https://user-images.githubusercontent.com/3501170/162574593-993d2a5a-0bbf-4378-9e00-886d90a65cb0.png)
+
+# How to use this tool?
+
+Step1: Download the file from Release section: 
+
+Step2: Run the EXE file
+
+Step3: Enter the target domain or keywords along with the organisation name
+
+Step4: Click on different buttons in the tool to find information
+
+Step5: In case of Google Captcha simply click on the puzzle and move ahead
