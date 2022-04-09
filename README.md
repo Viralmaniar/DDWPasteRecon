@@ -177,3 +177,15 @@ Step3: Enter the target domain or keywords along with the organisation name
 Step4: Click on different buttons in the tool to find information
 
 Step5: In case of Google Captcha simply click on the puzzle and move ahead
+
+# Questions?
+
+Twitter: https://twitter.com/maniarviral <br>
+LinkedIn: https://au.linkedin.com/in/viralmaniar
+
+# Contribution & License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</br>
+Want to contribute? Please fork it and hit up with a pull request.
+
+Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
